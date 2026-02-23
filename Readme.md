@@ -40,4 +40,4 @@ top -bn1 | head -n 12 | tail -n 6
 ### 5. Top 5 Processes by Memory
 ```bash
 top -bn1 -o %MEM | head -n 12 | tail -n 6
-``
+```
